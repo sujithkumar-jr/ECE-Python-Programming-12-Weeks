@@ -1,1 +1,1 @@
-ECE-Python-Programming-12-Weeks
+MCQ and coding question for week 2
